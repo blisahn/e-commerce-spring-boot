@@ -18,7 +18,7 @@ A simple and extensible e-commerce backend built with **Spring Boot**. This appl
 ## 🛠️ Tech Stack
 
 - Java 17
-- Spring Boot 2.x
+- Spring Boot 3.x
 - Spring Web
 - Spring Data JPA
 - Lombok
